@@ -393,6 +393,11 @@ h1, h2, h3, h4, h5, h6 {
 #hero .icon-boxes {
   margin-top: 100px;
 }
+.height{
+  height:300px;
+  margin-right:20px;
+  margin-left:20px;
+}
 #hero .icon-box {
   padding: 50px 30px;
   position: relative;
@@ -797,6 +802,10 @@ background-color:#f0ece4;
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
+#services{
+  background-color: #d1cbba;
+}
+
 .services .icon-box {
   text-align: center;
   padding: 70px 20px 80px 20px;
@@ -938,6 +947,10 @@ background-color:#f0ece4;
 /*--------------------------------------------------------------
 # Portfolio
 --------------------------------------------------------------*/
+.portfolio{
+  background-color: #f0ece4;
+}
+
 .portfolio .portfolio-item {
   margin-bottom: 30px;
 }
